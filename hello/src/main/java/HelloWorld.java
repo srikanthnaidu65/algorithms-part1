@@ -1,6 +1,6 @@
 /**
- * @author  Srikanth
- * @since   01/01/2023
+ * @author Srikanth
+ * @since 01/01/2023
  */
 public class HelloWorld {
     public static void main(String[] args) {
